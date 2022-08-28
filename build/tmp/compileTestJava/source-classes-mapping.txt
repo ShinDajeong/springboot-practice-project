@@ -2,7 +2,9 @@ com/example/book/web/HelloControllerTest.java
  com.example.book.web.HelloControllerTest
 com/example/book/web/dto/HelloResponseDtoTest.java
  com.example.book.web.dto.HelloResponseDtoTest
-com/example/book/web/domain/posts/PostsRepositoryTest.java
- com.example.book.web.domain.posts.PostsRepositoryTest
 com/example/book/web/PostsApiControllerTest.java
  com.example.book.web.PostsApiControllerTest
+com/example/book/web/domain/posts/PostsRepositoryTest.java
+ com.example.book.web.domain.posts.PostsRepositoryTest
+com/example/book/web/IndexControllerTest.java
+ com.example.book.web.IndexControllerTest
